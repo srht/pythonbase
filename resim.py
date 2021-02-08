@@ -7,7 +7,7 @@ import os
 from PIL import Image
 
 scale_size = (1500)
-imgArr=glob.glob("C:/Users/serhat/Downloads/BIBLIYOMETRI18-20181031T105101Z-001/BIBLIYOMETRI18/*.jpg")
+imgArr=glob.glob("<full path>/*.jpg")
 
 
 # Loop through all provided arguments
