@@ -8,7 +8,7 @@ To run the python files:
 
 * getipfromdomain/read.py:
 
-Add hostnames to domains.txt file.
+  Add hostnames to domains.txt file.
 
 * imageToPdf.py:
 
